@@ -2,4 +2,4 @@
 
 I'm **David González Martínez**.
 
-I’m passionate about **Deep Learning** and **Machine Learning**, with a strong interest in research and advancing the field.  
+I’m passionate about DL/ML research. My current research interests lie in understanding how neural networks learn, and I am also interested in model compression.
